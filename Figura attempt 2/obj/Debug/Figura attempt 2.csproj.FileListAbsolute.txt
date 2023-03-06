@@ -1,0 +1,7 @@
+C:\Users\acolj\source\repos\Figura attempt 2\bin\Debug\Figura attempt 2.exe.config
+C:\Users\acolj\source\repos\Figura attempt 2\bin\Debug\Figura attempt 2.exe
+C:\Users\acolj\source\repos\Figura attempt 2\bin\Debug\Figura attempt 2.pdb
+C:\Users\acolj\source\repos\Figura attempt 2\obj\Debug\Figura attempt 2.csprojAssemblyReference.cache
+C:\Users\acolj\source\repos\Figura attempt 2\obj\Debug\Figura attempt 2.csproj.CoreCompileInputs.cache
+C:\Users\acolj\source\repos\Figura attempt 2\obj\Debug\Figura attempt 2.exe
+C:\Users\acolj\source\repos\Figura attempt 2\obj\Debug\Figura attempt 2.pdb
